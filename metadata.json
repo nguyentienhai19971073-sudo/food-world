@@ -1,0 +1,6 @@
+{
+  "name": "FOOD WORLD – Global Food Match",
+  "description": "A vibrant casual puzzle and culinary matching game for YouTube Playables. Match iconic global dishes to countries across 120 levels, 4 game modes, and unlockable food encyclopedias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
